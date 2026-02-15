@@ -16,7 +16,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Holidays 0.91\n"
 "POT-Creation-Date: 2025-01-29 14:18+0700\n"
-"PO-Revision-Date: 2026-02-11 18:35+0200\n"
+"PO-Revision-Date: 2026-02-15 05:46+0000\n"
 "Last-Translator: PPsyrius <ppsyrius@ppsyrius.dev>\n"
 "Language-Team: Holidays Localization Team\n"
 "Language: en_US\n"
@@ -48,13 +48,13 @@ msgstr "Spring Bank Holiday"
 msgid "Easter Monday"
 msgstr "Easter Monday"
 
-#. Whit Monday.
-msgid "Whit Monday"
-msgstr "Whit Monday"
-
 #. Late Summer Bank Holiday.
 msgid "Late Summer Bank Holiday"
 msgstr "Late Summer Bank Holiday"
+
+#. Whit Monday.
+msgid "Whit Monday"
+msgstr "Whit Monday"
 
 #. New Year's Day.
 msgid "New Year's Day"
